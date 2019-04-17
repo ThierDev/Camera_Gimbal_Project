@@ -4,7 +4,7 @@ The Big challenge here was to implement the Kalman Filter (https://en.wikipedia.
 # Here is a video Trailer
 [![](http://img.youtube.com/vi/CbVkS4JTXWI/0.jpg)](http://www.youtube.com/watch?v=CbVkS4JTXWI "Camera Gimbal Trailer")
 # Complete report available in French
-File: (Rapport_TIPE_Mai2017_DOLIVEIRA_LINCOLN.pdf)
+File: [!(Rapport_TIPE_Mai2017_DOLIVEIRA_LINCOLN.pdf)]
 
 
 # Disclaimer
