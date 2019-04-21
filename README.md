@@ -9,3 +9,7 @@ File: [!Dossier Drone PDF](Rapport_TIPE_Mai2017_DOLIVEIRA_LINCOLN.pdf)
 
 # Disclaimer
 The code is very messy in here, big apologies, 100% garanteed I would not put this in production like this, the code is not factorized nor cleaned. The focus during this project where on electronics and especially on key concepts : PID feedback loops, Euler Angles equations, etc...
+
+# Kalman Filter code inspired on : 
+
+https://github.com/TKJElectronics/KalmanFilter 
