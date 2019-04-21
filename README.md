@@ -1,6 +1,8 @@
 # Camera_Gimbal_Project
 This is a second year project at ISEP (Engineering School in Paris) Grade 100%
 The Big challenge here was to implement the Kalman Filter (https://en.wikipedia.org/wiki/Kalman_filter) and to make it run on a 8bit Arduino UNO 
+The mecanical structure was another challenge because it had to be perfectly balanced. g\vec needed to be aligned to avoid any momentum or stress on the motors. 
+
 # Here is a video Trailer
 [![](http://img.youtube.com/vi/CbVkS4JTXWI/0.jpg)](http://www.youtube.com/watch?v=CbVkS4JTXWI "Camera Gimbal Trailer")
 # Complete report available in French
